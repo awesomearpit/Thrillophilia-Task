@@ -1,0 +1,30 @@
+[
+   {
+        "id":"1",
+        "img_url":"https://images.thrillophilia.com/image/upload/s--hBiRB1z0--/c_fill,f_auto,fl_strip_profile,h_450,q_auto,w_400/v1/images/photos/000/055/403/original/Almost-Captains.jpg.jpg?1458157823",
+        "desc":"Sailing in Bentota in Sri Lanka",
+        "price":"8000",
+        "dis_price":"7500"
+    },
+    {
+        "id":"2",
+        "img_url":"https://images.thrillophilia.com/image/upload/s--yvcEpIXQ--/c_fill,f_auto,fl_strip_profile,h_450,q_auto,w_400/v1/images/photos/000/052/763/original/whale.jpg.jpg?1458198869",
+        "desc":"Sailing in Bentota in Sri Lanka",
+        "price":"5000",
+        "dis_price":"4000"
+    },
+    {
+        "id":"3",
+        "img_url":"https://images.thrillophilia.com/image/upload/s--Ruh_sO-V--/c_fill,f_auto,fl_strip_profile,h_450,q_auto,w_400/v1/images/photos/000/055/868/original/4.jpg.jpg?1458158767",
+        "desc":"Sailing in Bentota in Sri Lanka",
+        "price":"4000",
+        "dis_price":"3500"
+    },
+    {
+        "id":"4",
+        "img_url":"https://images.thrillophilia.com/image/upload/s--32oLf4NR--/c_fill,f_auto,fl_strip_profile,h_450,q_auto,w_400/v1/images/photos/000/053/273/original/1939642_231162127071122_659703069_n.jpg.jpg?1458199084",
+        "desc":"Sailing in Bentota in Sri Lanka",
+        "price":"3500",
+        "dis_price":"3000"
+    }
+]

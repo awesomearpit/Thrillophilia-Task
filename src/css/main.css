@@ -1,0 +1,205 @@
+body{
+    font-family: 'Avenir', Sans-Serif;
+}
+
+.no-padding{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.nav-padding{
+    padding-left:20px !important;
+    padding-right: 20px !important;
+}
+.logo-size{
+    width:150px;
+    height:30px;
+}
+.header-li{
+    color: #fff;
+    font-size: 14px;
+    margin: 0px 7px;
+    padding: 0 5px;
+    background-color: transparent;
+    height: 58px;
+    line-height: 60px;
+}
+.header-icon{
+    color: #fff;
+    font-size: 14px; 
+    background-color: transparent;
+    height: 58px;
+    line-height: 60px;
+}
+.background{
+    background-image: url("https://images.thrillophilia.com/image/upload/s--vDn1cffq--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/082/480/original/1464186385_45521wide.jpg.jpg?1464186381");
+    height:650px;
+    margin-top:-11%;
+}
+.navbar-bgcolor{
+    background-color: transparent !important;
+}
+
+.header-review-count {
+    margin-bottom: 0;
+    color: #f16f30;
+}
+
+.clearfix{
+    clear:both;
+}
+
+.star-filled {
+    font-size: 12px;
+    color: #fecb19;
+}
+
+.brand-logos {
+    margin-right: 30px;
+}
+
+.trusted-brand {
+    position: relative;
+    float:right;
+}
+
+.jumbotron p{
+    font-size: 15px;
+}
+
+.breadcrumbs_wrapper {
+    padding-left: 2%;
+    margin-top: -80px;
+    margin-bottom: 0px;
+}
+
+.breadcrumbs_wrapper li{
+    display: inline-block;
+    padding: 10px 0px;
+    font-size: 14px;
+    color: #f16f30;
+}
+
+.breadcrumbs_wrapper li a {
+    color: #b5bac0;
+}
+
+.body-info{
+    font-size: 16px;
+    line-height: 1.5em;
+    height: 7.5em;
+}
+
+.body-card{
+    height: 410px;
+    width: 100%;
+    margin-bottom: 15px;
+    position: relative;
+    background-color: #fff;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+}
+
+.body-card-image{
+    height: 300px;
+}
+
+.body-card-image img{
+    border-radius: 2px 2px 0 0;
+    width: 100%;
+    height: 100%;
+}
+
+.body-card-content{
+    padding: 0 10px;
+}
+
+.body-card-content .desces {
+    padding: 0 5px;
+    margin-top: 15px;
+    width:100%;
+}
+
+.rupee-symbol{
+    font-size: 15px;
+    opacity: 0.9;
+}
+
+.attraction-body-card{
+    height: 450px;
+    width: 100%;
+    margin-bottom: 15px;
+    position: relative;
+    background-color: #fff;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+}
+
+.attraction-card-image{
+    height: 190px;
+}
+
+.attraction-card-image img{
+    border-radius: 2px 2px 0 0;
+    width: 100%;
+    height: 100%;
+}
+
+.more-content{
+    padding-left: 3px;
+    max-height: 20%;
+    color: #898e95;
+    margin-top: 5px;
+    font-size: 13px;
+}
+
+.attraction-card-sub{
+    height: 90px;
+    width: 93%;
+    margin-left: 10px;
+    background-color: #f6f6f6;
+    padding: 2px;
+    border-radius: 3px;
+    border: 1px solid #f6f6f6;
+    box-shadow: inset 0 1px 1px 0 rgba(0,0,0,0.14), 0 1px 3px 0 rgba(0,0,0,0.12), 0 1px 1px -2px rgba(0,0,0,0.2);
+}
+
+.attraction-card-sub p {
+    color: #3b444f;
+    font-size: 15px;
+}
+
+.form-textarea{
+    width: 100%;
+    border: solid 1px #ddd;
+    border-radius: 4px;
+    height: 80px;
+}
+
+.box-ul{
+    margin: 0;
+    padding: 0;
+}
+
+.box-ul li{
+    display: inline-block !important;
+    margin: 0 10px 10px 0;
+    padding: 0;
+    list-style-type: none !important;
+}
+
+.box-btn{
+    padding: 12px;
+    border: 1px solid #d3d3d3;
+    color: #fea246;
+    font-size: 13px !important;
+    border-radius: 3px;
+    opacity: 1 !important;
+}
+
+.footer-color{
+    color:#fff;
+}
+
+.footer-color a{
+    color:#f9ae1f;
+}
